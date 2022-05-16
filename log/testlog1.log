@@ -1,0 +1,88 @@
+2022-05-16 20:33:46,272 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 20:33:46,299 [main] INFO com.recruitment.utilities.Log - =====================================verifyLogo TEST START=========================================
+2022-05-16 20:33:46,593 [main] INFO com.recruitment.utilities.Log - The element is Displayed
+2022-05-16 20:33:46,595 [main] INFO com.recruitment.utilities.Log - =====================================verifyLogo TEST END=========================================
+2022-05-16 20:33:46,617 [main] INFO com.recruitment.utilities.Log - =====================================verifyTitle TEST START=========================================
+2022-05-16 20:33:46,760 [main] INFO com.recruitment.utilities.Log - =====================================verifyTitle TEST END=========================================
+2022-05-16 20:33:51,159 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 20:33:52,915 [main] INFO com.recruitment.utilities.Log - Able to click:signInBtn
+2022-05-16 20:33:52,916 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST START=========================================
+2022-05-16 20:33:53,210 [main] INFO com.recruitment.utilities.Log - Entered text:userName
+2022-05-16 20:33:53,467 [main] INFO com.recruitment.utilities.Log - Entered text:password
+2022-05-16 20:34:03,059 [main] INFO com.recruitment.utilities.Log - Able to click:logInBtn
+2022-05-16 20:34:03,069 [main] INFO com.recruitment.utilities.Log - Verifying if user is able to login
+2022-05-16 20:34:03,070 [main] INFO com.recruitment.utilities.Log - LoginTest- passed
+2022-05-16 20:34:03,070 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST END=========================================
+2022-05-16 20:34:07,349 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 20:34:10,635 [main] INFO com.recruitment.utilities.Log - Able to click:signInBtn
+2022-05-16 20:34:10,637 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST START=========================================
+2022-05-16 20:34:10,858 [main] INFO com.recruitment.utilities.Log - Entered text:userName
+2022-05-16 20:34:11,057 [main] INFO com.recruitment.utilities.Log - Entered text:password
+2022-05-16 20:34:12,187 [main] INFO com.recruitment.utilities.Log - Able to click:logInBtn
+2022-05-16 20:34:12,204 [main] INFO com.recruitment.utilities.Log - Verifying if user is able to login
+2022-05-16 20:34:13,303 [main] INFO com.recruitment.utilities.Log - Able to click:signInBtn
+2022-05-16 20:34:13,304 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST START=========================================
+2022-05-16 20:34:13,485 [main] INFO com.recruitment.utilities.Log - Entered text:userName
+2022-05-16 20:34:13,708 [main] INFO com.recruitment.utilities.Log - Entered text:password
+2022-05-16 20:34:22,233 [main] INFO com.recruitment.utilities.Log - Able to click:logInBtn
+2022-05-16 20:34:22,239 [main] INFO com.recruitment.utilities.Log - Verifying if user is able to login
+2022-05-16 20:34:22,239 [main] INFO com.recruitment.utilities.Log - LoginTest- passed
+2022-05-16 20:34:22,472 [main] INFO com.recruitment.utilities.Log - Able to click:logoutBtn
+2022-05-16 20:34:22,472 [main] INFO com.recruitment.utilities.Log - Clicked on LogOut
+2022-05-16 20:34:22,472 [main] INFO com.recruitment.utilities.Log - Logot of application
+2022-05-16 20:34:22,474 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST END=========================================
+2022-05-16 20:34:26,692 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 20:34:26,864 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST START=========================================
+2022-05-16 20:34:27,308 [main] INFO com.recruitment.utilities.Log - Entered text:txtSearchBox
+2022-05-16 20:34:28,973 [main] INFO com.recruitment.utilities.Log - Able to click:searchBtn
+2022-05-16 20:34:29,253 [main] INFO com.recruitment.utilities.Log - SearchTest- passed
+2022-05-16 20:34:29,254 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST END=========================================
+2022-05-16 20:34:29,257 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST START=========================================
+2022-05-16 20:34:29,544 [main] INFO com.recruitment.utilities.Log - Entered text:txtSearchBox
+2022-05-16 20:34:33,259 [main] INFO com.recruitment.utilities.Log - Able to click:searchBtn
+2022-05-16 20:34:33,529 [main] INFO com.recruitment.utilities.Log - SearchTest- passed
+2022-05-16 20:34:33,530 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST END=========================================
+2022-05-16 21:49:54,556 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 21:49:54,567 [main] INFO com.recruitment.utilities.Log - =====================================verifyLogo TEST START=========================================
+2022-05-16 21:49:54,638 [main] INFO com.recruitment.utilities.Log - The element is Displayed
+2022-05-16 21:49:54,639 [main] INFO com.recruitment.utilities.Log - =====================================verifyLogo TEST END=========================================
+2022-05-16 21:49:54,653 [main] INFO com.recruitment.utilities.Log - =====================================verifyTitle TEST START=========================================
+2022-05-16 21:49:54,660 [main] INFO com.recruitment.utilities.Log - =====================================verifyTitle TEST END=========================================
+2022-05-16 21:49:57,246 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 21:49:58,234 [main] INFO com.recruitment.utilities.Log - Able to click:signInBtn
+2022-05-16 21:49:58,235 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST START=========================================
+2022-05-16 21:49:58,394 [main] INFO com.recruitment.utilities.Log - Entered text:userName
+2022-05-16 21:49:58,548 [main] INFO com.recruitment.utilities.Log - Entered text:password
+2022-05-16 21:50:07,654 [main] INFO com.recruitment.utilities.Log - Able to click:logInBtn
+2022-05-16 21:50:07,659 [main] INFO com.recruitment.utilities.Log - Verifying if user is able to login
+2022-05-16 21:50:07,659 [main] INFO com.recruitment.utilities.Log - LoginTest- passed
+2022-05-16 21:50:07,659 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST END=========================================
+2022-05-16 21:50:10,125 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 21:50:11,853 [main] INFO com.recruitment.utilities.Log - Able to click:signInBtn
+2022-05-16 21:50:11,854 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST START=========================================
+2022-05-16 21:50:12,007 [main] INFO com.recruitment.utilities.Log - Entered text:userName
+2022-05-16 21:50:12,143 [main] INFO com.recruitment.utilities.Log - Entered text:password
+2022-05-16 21:50:13,261 [main] INFO com.recruitment.utilities.Log - Able to click:logInBtn
+2022-05-16 21:50:13,269 [main] INFO com.recruitment.utilities.Log - Verifying if user is able to login
+2022-05-16 21:50:14,478 [main] INFO com.recruitment.utilities.Log - Able to click:signInBtn
+2022-05-16 21:50:14,478 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST START=========================================
+2022-05-16 21:50:14,582 [main] INFO com.recruitment.utilities.Log - Entered text:userName
+2022-05-16 21:50:14,693 [main] INFO com.recruitment.utilities.Log - Entered text:password
+2022-05-16 21:50:23,247 [main] INFO com.recruitment.utilities.Log - Able to click:logInBtn
+2022-05-16 21:50:23,250 [main] INFO com.recruitment.utilities.Log - Verifying if user is able to login
+2022-05-16 21:50:23,250 [main] INFO com.recruitment.utilities.Log - LoginTest- passed
+2022-05-16 21:50:23,334 [main] INFO com.recruitment.utilities.Log - Able to click:logoutBtn
+2022-05-16 21:50:23,335 [main] INFO com.recruitment.utilities.Log - Clicked on LogOut
+2022-05-16 21:50:23,335 [main] INFO com.recruitment.utilities.Log - Logot of application
+2022-05-16 21:50:23,335 [main] INFO com.recruitment.utilities.Log - =====================================loginTest TEST END=========================================
+2022-05-16 21:50:25,855 [main] INFO Recruitment Portal - URL is opened
+2022-05-16 21:50:25,966 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST START=========================================
+2022-05-16 21:50:26,183 [main] INFO com.recruitment.utilities.Log - Entered text:txtSearchBox
+2022-05-16 21:50:27,502 [main] INFO com.recruitment.utilities.Log - Able to click:searchBtn
+2022-05-16 21:50:27,693 [main] INFO com.recruitment.utilities.Log - SearchTest- passed
+2022-05-16 21:50:27,694 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST END=========================================
+2022-05-16 21:50:27,697 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST START=========================================
+2022-05-16 21:50:27,856 [main] INFO com.recruitment.utilities.Log - Entered text:txtSearchBox
+2022-05-16 21:50:30,453 [main] INFO com.recruitment.utilities.Log - Able to click:searchBtn
+2022-05-16 21:50:30,740 [main] INFO com.recruitment.utilities.Log - SearchTest- passed
+2022-05-16 21:50:30,740 [main] INFO com.recruitment.utilities.Log - =====================================SearchBox TEST END=========================================
